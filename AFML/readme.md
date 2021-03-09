@@ -1,1 +1,2 @@
-*Advances in Financial Machine Learning* is the main reference used for the master thesis. 
+- *Advances in Financial Machine Learning* is the main reference used for the master thesis. 
+- Some additional resources are also available
